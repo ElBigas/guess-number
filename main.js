@@ -63,3 +63,10 @@ function restart() {
 function clear() {
     document.getElementById('kick').value = '';
 }
+
+/* DARK THEME */
+const changeThemeBtn = document.querySelector('#change-theme')
+
+changeThemeBtn.addEventListener('change', () => {
+    document.body.classList.toggle('dark')
+}) 
