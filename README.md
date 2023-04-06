@@ -6,3 +6,5 @@ Neste projeto busquei criar uma aplicação simples onde o objetivo é adivinhar
 <hr>
 
 Após a conclusão desta aplicação, tive a idéia de acrescentar um botão para alternar entre o tema dark e light. Foi a primeira vez que tive a experiência de criar uma aplicação deste tipo e acredito que o resultado final ficou muito interessante! Tive uma dificuldade bem grande na hora de escolher as cores tanto para o tema dark quanto para o light mas penso que ficaram legais, rsrs. 
+
+Você pode experimentar o jogo neste link: <a href='https://guess-number-lac.vercel.app/'>Guess Number</a>
